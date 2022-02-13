@@ -16,8 +16,8 @@
 <ゲームの評価をしたり、ランキングを見てみたいときに活用する>
 
 ## 設計書
-テーブル定義書<https://docs.google.com/spreadsheets/d/1_7FUS-GgWauCR7zFfJmPZvcuJwK9Sgjql2_Rwl9ckpc/edit?usp=sharing>
-ER図<https://drive.google.com/file/d/1m425tfCvIWZBz0jVFw0mXTLteJMekR22/view?usp=sharing>
+- テーブル定義書<https://docs.google.com/spreadsheets/d/1_7FUS-GgWauCR7zFfJmPZvcuJwK9Sgjql2_Rwl9ckpc/edit?usp=sharing>
+- ER図<https://drive.google.com/file/d/1m425tfCvIWZBz0jVFw0mXTLteJMekR22/view?usp=sharing>
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1SSP9UWvnEU0Vd3KpMEy1YUtur5ge0cjXhBA3MtSA5mY/edit?usp=sharing>
